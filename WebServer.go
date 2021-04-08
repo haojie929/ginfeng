@@ -2,10 +2,10 @@ package ginfeng
 
 import (
 	"fmt"
-	"Base"
-	"Cache"
-	"Config"
-	"DB"
+	"ginfeng/Base"
+	"ginfeng/Cache"
+	"ginfeng/Config"
+	"ginfeng/DB"
 	"github.com/gin-gonic/gin"
 	"reflect"
 )
