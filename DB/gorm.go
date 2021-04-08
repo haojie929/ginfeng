@@ -2,7 +2,7 @@ package DB
 
 import (
 	"fmt"
-	config "ginfeng/Config"
+	config "github.com/haojie929/ginfeng/Config"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jinzhu/gorm"
 	"log"

@@ -1,7 +1,7 @@
 package Cache
 
 import (
-	config "ginfeng/Config"
+	config "github.com/haojie929/ginfeng/Config"
 	"github.com/garyburd/redigo/redis"
 	"time"
 )
